@@ -1,6 +1,8 @@
 # DIKWP PilotFactory OS
 
-**DIKWP PilotFactory OS** is an offline, open-source enterprise pilot conversion system for the DIKWP ecosystem. It turns an organization's AI use case portfolio into a DIKWP-aligned pilot opportunity report, paid pilot statement of work, pricing tier recommendation, ROI assumption ledger, partner routing decision, procurement checklist, and official service boundary.
+Created by Yucong Duan (段玉聪).
+
+DIKWP PilotFactory OS is an offline, open-source enterprise pilot conversion system for the DIKWP ecosystem. It turns an organization's AI use case portfolio into a DIKWP-aligned pilot opportunity report, paid pilot statement of work, pricing tier recommendation, ROI assumption ledger, partner routing decision, procurement checklist, and official service boundary.
 
 The project is designed as an open-core friendly lead-generation and service-routing layer. The offline core is open source. Official DIKWP registry, signed certification, partner approval, expert-reviewed industry adapter packs, and deployment services remain controlled official value layers.
 
